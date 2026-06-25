@@ -35,6 +35,9 @@ VIDEOS = [
     ("kyle-cj-newsletter-growth", "Kyle Poyar & CJ Gustafson", "https://www.youtube.com/watch?v=RX68Jm556Ao"),
     ("mcgarry-1k-subscribers-qa", "Matt McGarry", "https://www.youtube.com/watch?v=aAmm5Bm_odI"),
     ("mcgarry-growth-tier-list", "Matt McGarry", "https://www.youtube.com/watch?v=ZllqhESam1k"),
+    ("geisler-behavior-based-lifecycle", "Val Geisler", "https://www.youtube.com/watch?v=C4DKWaoGENw"),
+    ("schwedelson-inbound-2025", "Jay Schwedelson", "https://www.youtube.com/watch?v=zKrjlaSiIDg"),
+    ("bourgoin-buyer-psychology", "Katelyn Bourgoin", "https://www.youtube.com/watch?v=V4SHt99AXqM"), 
 ]
 
 

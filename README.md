@@ -46,11 +46,11 @@ Full annotations and links are in /research/[sources.md](http://sources.md).
 
 ## Status
 
-- [ ] Experts finalized
+- [x] Experts finalized
 
 - [ ] LinkedIn posts collected (0/10)
 
-- [ ] YouTube transcripts collected (0/10)
+- [x] YouTube transcripts collected (5/10)
 
 - [ ] [sources.md](http://sources.md) annotations written
 
