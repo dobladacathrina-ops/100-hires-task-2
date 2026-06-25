@@ -22,7 +22,7 @@ Ranking below is an initial, relevance-based order. I'm refining it as I work th
 
 - Focus: Newsletter growth & monetization (acquisition mechanics)
 - LinkedIn: [link]
-- YouTube / podcast: [[https://www.youtube.com/watch?v=aAmm5Bm_odI](https://www.youtube.com/watch?v=aAmm5Bm_odI), [https://www.youtube.com/watch?v=ZllqhESam1](https://www.youtube.com/watch?v=ZllqhESam1k)]
+- YouTube / podcast: [[https://www.youtube.com/watch?v=aAmm5Bm_odI](https://www.youtube.com/watch?v=aAmm5Bm_odI), [https://www.youtube.com/watch?v=ZllqhESam1k](https://www.youtube.com/watch?v=ZllqhESam1k)]
 - Language: English
 - Collected: LinkedIn posts [ ] | Transcripts [x]
 - Publish date: 2025
