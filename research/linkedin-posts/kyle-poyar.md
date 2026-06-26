@@ -6,11 +6,6 @@
 - **Collected:** 2026-06-26
 - **Status:** [x] posts pasted   [x] MY TAKE written   [x] committed
 
-> This file is the **second source** (LinkedIn) that pairs with the YouTube transcript
-> already collected for this expert — the two-source coverage the roster criterion promises.
-> Grab **2–3 recent posts that are actually about email/newsletter** (same on-topic filter
-> as the videos — skip generic hot takes). Manual copy-paste only, never scrape.
-
 ---
 
 ## Post 1
