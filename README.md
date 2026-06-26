@@ -96,4 +96,4 @@ The "MY TAKE" sections are entirely my own. They're where I connect each expert'
 
 - [x] YouTube transcripts collected (5/5)
 
-- [x] [sources.md](http://sources.md) annotations written
+- [x] sources.md annotations written
