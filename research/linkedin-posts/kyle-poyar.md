@@ -4,7 +4,7 @@
 - **Lane:** Newsletter-as-growth (Growth Unhinged)
 - **LinkedIn profile:** [https://www.linkedin.com/in/kyle-poyar/](https://www.linkedin.com/in/kyle-poyar/)
 - **Collected:** 2026-06-26
-- **Status:** [x] posts pasted   [x] MY TAKE written   [] committed
+- **Status:** [x] posts pasted   [x] MY TAKE written   [x] committed
 
 > This file is the **second source** (LinkedIn) that pairs with the YouTube transcript
 > already collected for this expert — the two-source coverage the roster criterion promises.
