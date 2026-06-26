@@ -37,12 +37,64 @@ Full annotations and links are in /research/[sources.md](http://sources.md).
 - LinkedIn posts: collected manually (copy-paste) to stay within LinkedIn's terms.
 - Repo scaffolding and file organization: Claude Code.
 
-## How I used AI (transparent by design)
+## Why I Chose These Experts
 
-- Research & drafting: I had Claude surface candidate experts and a first-pass ranking, with web search to verify each one is currently active. 
-- My judgment: I challenged that shortlist with my own picks, cut the experts who weren't true email/newsletter specialists, and set the final ranking myself. 
-- Automation: transcript pulls, file organization, repo scaffolding via Claude Code. 
-- My edge: I focused on the event-driven and behavioral parts of their content, because I can implement that via APIs in n8n and Make.
+I chose B2B SaaS newsletter and email marketing because it's the area I know best from the systems side. It's the channel I actually build using GoHighLevel, Make, and n8n, so it's the topic I can evaluate most honestly. My perspective comes from designing automation and lifecycle systems, not from running large-scale email campaigns myself.
+
+I used two criteria when selecting experts:
+
+1. They had to be genuine email or newsletter specialists, not general marketing creators.
+2. They had to be active on both YouTube and LinkedIn so I could verify their ideas across two different sources.
+
+That filter ruled out several well-known marketers whose primary expertise is positioning, CRO, or demand generation rather than email marketing.
+
+Together, these experts cover the full lifecycle of email marketing, from acquisition and list growth to lifecycle marketing, deliverability, retention, and buyer psychology.
+
+## Kyle Poyar & CJ Gustafson
+
+Poyar and Gustafson represent newsletter-led growth. Their Mostly Growth episode covers newsletter naming, domains, welcome emails, growth loops, newsletter swaps, and automation. I also included Poyar's LinkedIn post, *25 Tactics to Start & Grow a B2B Newsletter*, because it provides his own framework backed by results, including growing to 80,000+ subscribers and improving deliverability from 90.3% to 96.3%.
+
+CJ is represented through the joint episode since they teach the framework together. I chose not to include Poyar's *Art of Storytelling* video because it focuses on content strategy rather than email marketing. Leaving it out reinforces that I applied the same selection criteria consistently.
+
+## Matt McGarry
+
+McGarry focuses on list growth and newsletter monetization. I included his *1K Subscribers Q&A*, his *30+ Growth Tactics Ranked* video, and his LinkedIn post arguing that LinkedIn newsletters are dead. That post stood out because it's a strong opinion based on his own experience, which gave me something meaningful to analyze rather than simply summarize.
+
+I excluded his *Future of Newsletters* panel because the expertise comes from multiple guests, not just McGarry.
+
+## Val Geisler
+
+Geisler represents lifecycle marketing and retention. I used her Churn FM interview on behavior-based email marketing together with her LinkedIn post about the gap between personalized emails and generic website experiences.
+
+I marked the LinkedIn post as lifecycle-adjacent because it starts with lifecycle email before shifting into onsite personalization. My analysis stays focused on the email and customer journey side of that discussion.
+
+## Jay Schwedelson
+
+Schwedelson covers deliverability, testing, and current email best practices. I included his INBOUND session on what's working in email today along with his LinkedIn posts about AI inbox summaries, signal phrases, and reply-driven engagement.
+
+I intentionally left out one of his short-form clips because it didn't provide enough substance to analyze.
+
+## Katelyn Bourgoin
+
+Bourgoin brings the buyer psychology perspective. I primarily used her Demand Curve session because it directly explains the psychological principles behind effective email marketing.
+
+I reviewed several of her recent LinkedIn posts, but most focused on audience building and course launches rather than email itself. Instead of forcing an off-topic source into the project, I relied on the session where her expertise aligned with my research topic. Her strongest work on email still lives in her long-form content, including *Why We Buy*.
+
+## A Pattern Across the Experts
+
+One connection stood out across multiple sources. McGarry emphasizes revenue by acquisition source, Geisler focuses on behavior-based lifecycle marketing, and Schwedelson highlights replies as engagement signals. All three point toward the same idea: engagement-based list management.
+
+Rather than segmenting subscribers only by demographics or signup source, the stronger approach is to segment them based on what they actually do. That became the common thread across my research and the playbook I'd build from these experts.
+
+## How I Used AI
+
+AI helped with research and organization, not the analysis itself. I used it to fetch YouTube transcripts through the Supadata API, generate the folder structure, and create file templates.
+
+The judgment was mine. I selected the experts, applied the selection criteria, reviewed every source, decided what belonged in the final set, and wrote the annotations and conclusions.
+
+When AI surfaced potential LinkedIn posts or videos, I opened every original source and verified it before including it. Nothing in this repository comes from summaries alone.
+
+The "MY TAKE" sections are entirely my own. They're where I connect each expert's ideas to practical systems, automation, and implementation where it adds value.
 
 ## Status
 
