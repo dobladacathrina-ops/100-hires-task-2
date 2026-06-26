@@ -38,15 +38,6 @@ Full annotations and links are in `/research/sources.md`.
 
 ## Why I Chose These Experts
 
-I chose B2B SaaS newsletter and email marketing because it's the area I know best from the systems side. It's the channel I actually build using GoHighLevel, Make, and n8n, so it's the topic I can evaluate most honestly. My perspective comes from designing automation and lifecycle systems, not from running large-scale email campaigns myself.
-
-I used two criteria when selecting experts:
-
-1. They had to be genuine email or newsletter specialists, not general marketing creators.
-2. They had to be active on both YouTube and LinkedIn so I could verify their ideas across two different sources.
-
-That filter ruled out several well-known marketers whose primary expertise is positioning, CRO, or demand generation rather than email marketing.
-
 Together, these experts cover the full lifecycle of email marketing, from acquisition and list growth to lifecycle marketing, deliverability, retention, and buyer psychology.
 
 ## Kyle Poyar & CJ Gustafson
@@ -87,7 +78,7 @@ Rather than segmenting subscribers only by demographics or signup source, the st
 
 ## How I Used AI
 
-AI helped with research and organization, not the analysis itself. I used it to fetch YouTube transcripts through the Supadata API, generate the folder structure, and create file templates.
+I used Claude to help me with research and organization, not the analysis itself. I used it to fetch YouTube transcripts through the Supadata API, generate the folder structure, and create file templates.
 
 The judgment was mine. I selected the experts, applied the selection criteria, reviewed every source, decided what belonged in the final set, and wrote the annotations and conclusions.
 
@@ -98,8 +89,6 @@ The "MY TAKE" sections are entirely my own. They're where I connect each expert'
 
 
 **Scope note:** I focused this research on the parts of email marketing that are most relevant to the systems I build: newsletter strategy, list growth, lifecycle marketing, retention, deliverability tactics, and buyer psychology. I intentionally left out the technical email infrastructure side, such as sender reputation, DMARC, DKIM, and inbox placement, because that’s a specialized area that deserves its own focused research. I also chose to go deeper instead of wider. Rather than covering more experts at a surface level, I focused on five experts with clearly defined areas of expertise so I could spend more time analyzing and connecting their ideas in the “MY TAKE” sections.
-
-
 
 ## Status
 
