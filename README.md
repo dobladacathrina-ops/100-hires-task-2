@@ -1,41 +1,40 @@
-# B2B SaaS Email & Newsletter - Expert Research
+# B2B SaaS Email & Newsletter — Expert Research
 
-Research for a future playbook on running email and newsletter as a growth-to-retention engine for B2B SaaS. 
+Research for a future playbook on running email and newsletter as a growth-to-retention engine for B2B SaaS.
 
-I collected recent content from 10 specialists and organized it so the playbook can be built on real source material, not opinions off the top of my head.
+I collected recent content from 5 specialists and organized it so the playbook can be built on real source material, not opinions off the top of my head.
 
-## Why this topic
+### Why this topic
 
-I picked email and newsletter marketing because it's the channel I can actually build, not just talk about, the kind of lifecycle automation that runs in tools I use like n8n, Make, and GoHighLevel. 
+I picked email and newsletter marketing because it's the channel I can actually build, not just talk about — the kind of lifecycle automation that runs in tools I use like n8n, Make, and GoHighLevel. I've watched practitioners build these systems and I'm confident I can build one myself, and it sits closest to my marketing background.
 
-I've watched practitioners build these systems and I'm confident I can build one myself and it also sits closest to my marketing background. 
+### How I picked these 5
 
-## How I picked these 10
+I filtered for people who specialize in email or newsletters specifically, not general marketing, and who publish on both YouTube and LinkedIn, so I'd have two sources per voice. I deliberately skipped some bigger marketing names (positioning and demand-gen leaders) because their content doesn't support an email playbook.
 
-I filtered for people who specialize in email or newsletters specifically, not general marketing, and who publish on both YouTube and LinkedIn, so I had two sources per voice. I skipped some bigger marketing names on purpose (positioning and demand-gen leaders) because their content doesn't support an email playbook. 
+I started from a longer candidate list of around ten names and narrowed it deliberately. Some I cut because their real specialty was positioning or demand generation rather than email; one strong copywriting voice (Joanna Wiebe) I set aside because her recent content has shifted away from email specifically, and her email-focused work is now several years old. Narrowing to five let me give each expert genuine depth in the analysis rather than spreading thin across ten.
 
-The 10 cover the full arc:
+The 5 cover the full arc:
 
-- Acquisition / newsletter growth: Kyle Poyar, Matt McGarry, Lenny Rachitsky, Dave Gerhardt
-- Lifecycle & retention: Val Geisler, Ramli John
-- Tactics & deliverability: Jay Schwedelson
-- Copy & buyer psychology: Katelyn Bourgoin, Joanna Wiebe
-- Metrics: CJ Gustafson
+- **Acquisition / newsletter growth:** Kyle Poyar & CJ Gustafson, Matt McGarry
+- **Lifecycle & retention:** Val Geisler
+- **Tactics & deliverability:** Jay Schwedelson
+- **Copy & buyer psychology:** Katelyn Bourgoin
 
-Full annotations and links are in /research/[sources.md](http://sources.md).
+Full annotations and links are in `/research/sources.md`.
 
-## Repo structure
+### Repo structure
 
-- /research/[sources.md](http://sources.md) — all 10 experts, links, dates, my notes
-- /research/linkedin-posts/ — posts by author
-- /research/youtube-transcripts/ — transcripts by video
-- /research/other/ — adjacent context (content distribution, etc.)
+- `/research/sources.md` — all 5 experts, links, dates, my notes
+- `/research/linkedin-posts/` — posts by author
+- `/research/youtube-transcripts/` — transcripts by video
+- `/research/other/` — adjacent primary-source material (e.g., McGarry's growth-tactics slide deck)
 
-## How I collected it
+### How I collected it
 
-- YouTube transcripts: pulled via Supadata (free tier) using Claude Code.
-- LinkedIn posts: collected manually (copy-paste) to stay within LinkedIn's terms.
-- Repo scaffolding and file organization: Claude Code.
+- **YouTube transcripts:** pulled via Supadata (free tier) using Claude Code in Cursor.
+- **LinkedIn posts:** collected manually (copy-paste) to stay within LinkedIn's terms.
+- **Repo scaffolding and file organization:** Claude Code in Cursor.
 
 ## Why I Chose These Experts
 
@@ -96,14 +95,18 @@ When AI surfaced potential LinkedIn posts or videos, I opened every original sou
 
 The "MY TAKE" sections are entirely my own. They're where I connect each expert's ideas to practical systems, automation, and implementation where it adds value.
 
+
+
+**Scope note:** I focused this research on the parts of email marketing that are most relevant to the systems I build: newsletter strategy, list growth, lifecycle marketing, retention, deliverability tactics, and buyer psychology. I intentionally left out the technical email infrastructure side, such as sender reputation, DMARC, DKIM, and inbox placement, because that’s a specialized area that deserves its own focused research. I also chose to go deeper instead of wider. Rather than covering more experts at a surface level, I focused on five experts with clearly defined areas of expertise so I could spend more time analyzing and connecting their ideas in the “MY TAKE” sections.
+
+
+
 ## Status
 
 - [x] Experts finalized
 
-- [ ] LinkedIn posts collected (0/10)
+- [x] LinkedIn posts collected (5/5)
 
-- [x] YouTube transcripts collected (5/10)
+- [x] YouTube transcripts collected (5/5)
 
-- [ ] [sources.md](http://sources.md) annotations written
-
-- [ ] Playbook outline drafted
+- [x] [sources.md](http://sources.md) annotations written
