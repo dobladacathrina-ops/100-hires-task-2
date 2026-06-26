@@ -6,7 +6,7 @@ I collected recent content from 5 specialists and organized it so the playbook c
 
 ### Why this topic
 
-I picked email and newsletter marketing because it's the channel I can actually build, not just talk about — the kind of lifecycle automation that runs in tools I use like n8n, Make, and GoHighLevel. I've watched practitioners build these systems and I'm confident I can build one myself, and it sits closest to my marketing background.
+I picked email and newsletter marketing because it's the channel I can actually build, not just talk about; the kind of lifecycle automation that runs in tools I use like n8n, Make, and GoHighLevel. I've watched practitioners build these systems and I'm confident I can build one myself, and it sits closest to my marketing background.
 
 ### How I picked these 5
 
@@ -85,8 +85,6 @@ The judgment was mine. I selected the experts, applied the selection criteria, r
 When AI surfaced potential LinkedIn posts or videos, I opened every original source and verified it before including it. Nothing in this repository comes from summaries alone.
 
 The "MY TAKE" sections are entirely my own. They're where I connect each expert's ideas to practical systems, automation, and implementation where it adds value.
-
-
 
 **Scope note:** I focused this research on the parts of email marketing that are most relevant to the systems I build: newsletter strategy, list growth, lifecycle marketing, retention, deliverability tactics, and buyer psychology. I intentionally left out the technical email infrastructure side, such as sender reputation, DMARC, DKIM, and inbox placement, because that’s a specialized area that deserves its own focused research. I also chose to go deeper instead of wider. Rather than covering more experts at a surface level, I focused on five experts with clearly defined areas of expertise so I could spend more time analyzing and connecting their ideas in the “MY TAKE” sections.
 
